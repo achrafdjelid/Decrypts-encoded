@@ -71,19 +71,7 @@ decrypt.exe
 ./decrypt
 ```
 
-## Project Structure
-
-```text
-C-Text-Decryption/
-│
-├── main.c
-└── README.md
-```
 
 ## Author
 
 **Achraf Djelid**
-
----
-
-*This project demonstrates practical applications of arrays, strings, matrix operations, modular arithmetic, and character manipulation in C.*
